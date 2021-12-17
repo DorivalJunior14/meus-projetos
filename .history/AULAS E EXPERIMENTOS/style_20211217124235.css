@@ -1,0 +1,15 @@
+    @charset "UTF-8" body {
+        background-color: aquamarine;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    
+    h1 {
+        height: 300px;
+        width: 400px;
+        color: ;
+    }
+    
+    p {
+        text-align: center;
+        background-color: blue;
+    }
