@@ -1,0 +1,21 @@
+@charset "UTF-8" body {
+    background-color: blue;
+    color: beige;
+}
+
+h1 {
+    background-color: rgba(173, 152, 29, 0.692);
+    color: blueviolet;
+}
+
+h2 {
+    background-color: aquamarine;
+    color: black;
+}
+
+p {}
+
+h3 {
+    background-color: tomato;
+    color: bisque;
+}
